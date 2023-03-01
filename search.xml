@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Web安全之SQL注入</title>
+    <url>/2023/02/28/Web%E5%AE%89%E5%85%A8%E4%B9%8BSQL%E6%B3%A8%E5%85%A5/</url>
+    <content><![CDATA[<p>现在开始 web 安全之 SQL 注入的学习</p>
+<h2 id="sql注入"><a class="markdownIt-Anchor" href="#sql注入">#</a> SQL 注入</h2>
+<h3 id="布尔盲注"><a class="markdownIt-Anchor" href="#布尔盲注">#</a> 布尔盲注</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="时间型盲注"><a class="markdownIt-Anchor" href="#时间型盲注">#</a> 时间型盲注</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="基于错误的注入"><a class="markdownIt-Anchor" href="#基于错误的注入">#</a> 基于错误的注入</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="联合查询注入"><a class="markdownIt-Anchor" href="#联合查询注入">#</a> 联合查询注入</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<h3 id="堆查询注入"><a class="markdownIt-Anchor" href="#堆查询注入">#</a> 堆查询注入</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
