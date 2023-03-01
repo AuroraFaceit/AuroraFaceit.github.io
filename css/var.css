@@ -1,0 +1,28 @@
+:root {
+  --transitionTime: 0.35s ease;
+  --hColor: #000;
+  --metaColor: #5c5c5c;
+  --bodyBgColor: #f2f3f0;
+  --headBgColor: #fff;
+  --markHeadBgColor: #eee;
+  --markBgColor: #252525;
+  --commentColor: #525f7f;
+  --dashedBorderColor: #c5c5c5;
+  --postLinkColor: #bb996d;
+  --nprogressColor: #bb996d;
+  --linkItemBgColor: #f9f9f9;
+  --linkItemBgColor2: #fff;
+  --ngBarBgColor: #ca8b58;
+}
+:root.dark {
+  --hColor: #f2f3f0;
+  --metaColor: #e6e6e6;
+  --bodyBgColor: #252525;
+  --headBgColor: #1d1d1d;
+  --markHeadBgColor: #353535;
+  --markBgColor: #f2f3f0;
+  --commentColor: #becae7;
+  --nprogressColor: #fff3e5;
+  --linkItemBgColor: #353535;
+  --linkItemBgColor2: #000;
+}
